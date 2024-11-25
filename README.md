@@ -1,3 +1,4 @@
+![Logo Campo Inteligente](./assets/images/logo.png)
 # Protótipo do Campo Inteligente
 
 Este repositório contém o protótipo em desenvolvimento do **Campo Inteligente**, um projeto de aplicação móvel que visa transformar a forma como interagimos com a tecnologia no ambiente agrícola. O protótipo está sendo desenvolvido utilizando **React Native** com o **Expo**, e ainda está em fase de implementação, com várias funcionalidades em progresso.
